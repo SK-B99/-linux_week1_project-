@@ -1,6 +1,6 @@
 # Screenshot 1
 ![Screenshot 1](1.png)  
-Explanation: This screenshot shows the SSH access from Windows to Ubuntu. It demonstrates the connection being successfully established using SSH.
+Explanation: This screenshot shows the first 10 ip addresses that gave 404 error.
 
 # Screenshot 2
 ![Screenshot 2](2.png)  
