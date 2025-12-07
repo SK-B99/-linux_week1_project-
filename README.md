@@ -44,14 +44,33 @@ Using a Windows machine as the client and Ubuntu as the server, I generated SSH 
 
 ---
 
-## Weekly Reflection
+## Lessons Learned
 
-On Day 1, I reviewed basic navigation commands and learned how the Linux filesystem works. I moved through directories faster and found files with less effort.
-On Day 2, I focused on file permissions. I learned how symbolic and numeric modes match and how to change ownership and access with chmod. This helped me understand system security in a practical way.
-On Day 3, I used text-processing tools like grep, awk, and pipelines. These tools showed me how powerful the command line is when working with large files. The email-extraction task proved how a few commands can solve real problems.
-On Day 4, I explored how Linux handles running processes. Creating and stopping a runaway process helped me understand PIDs, CPU usage, and resource limits. Tools like top and htop now feel easy to use.
-On Day 5, I learned how to connect to remote servers with SSH. I generated key pairs and used scp to move files securely. The log-analysis task brought all the skills together and helped me build an efficient workflow.
-Overall, this week gave me useful knowledge and a more practical way of thinking when I troubleshoot or work on the command line.
+Over the past five days, I have built a strong foundation in Linux. I can perform key tasks confidently and efficiently.  
+
+## Filesystem Navigation
+- I can navigate the filesystem easily using `cd`, `ls`, `pwd`, and `find`.
+- I  understand and I can explore the Linux directory structure.
+
+## File Permissions and Ownership
+- I can manage file permissions and ownership.
+- I can read and set symbolic modes using `chmod`, `chown`, and `chgrp`.
+
+## Text Processing
+- I can extract and manipulate data using `grep`, `awk`, `cut`, and pipes.
+- I can solve real problems quickly with these tools.
+
+## Process Monitoring and Control
+- I can monitor system processes using `top` and `htop`.
+- I can identify runaway tasks and stop them safely.
+
+## Secure Remote Access
+- I can generate SSH keys and connect from server to client securely.
+- I can transfer files safely using `scp`.
+
+---
+
+
 
 
 
